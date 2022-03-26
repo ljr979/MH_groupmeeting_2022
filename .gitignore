@@ -1,0 +1,22 @@
+# log files
+*.log
+
+# Annoying Office temp files
+*~$*
+
+# VSCode files
+*.vscode
+
+# log files
+*.log
+
+# Annoying Office temp files
+*~$*
+
+# VSCode files
+*.vscode
+
+imagejresults/*
+python_results/*
+experimental_data/*
+raw_data/*
